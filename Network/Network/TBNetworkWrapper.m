@@ -43,8 +43,6 @@ NSString *const TBServiceMethod = @"serviceMethod";
                            [[key substringToIndex:1] capitalizedString],
                            [key substringFromIndex:1]];
     
-    
-    
     if ([obj respondsToSelector:NSSelectorFromString(setterStr)]) {
         
         @try {
