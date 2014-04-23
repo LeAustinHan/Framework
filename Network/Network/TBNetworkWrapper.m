@@ -7,7 +7,7 @@
 #import "ASIDownloadCache.h"
 #import "TBNetworkWrapper.h"
 #import "Network/TBNetworkWrapperAdapter.h"
-#import "Core/Core.h"
+#import "Core.h"
 
 NSString *const TBRequestMethodGet = @"GET";
 NSString *const TBRequestMethodPost = @"POST";
