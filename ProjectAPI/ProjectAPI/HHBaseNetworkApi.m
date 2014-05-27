@@ -28,6 +28,7 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
 + (void)setLLogAnalysisBaseHeader:(TBLogAnalysisBaseHeader *)header {
     
     logAnalysisHeader = [header copy];
+    //kk
 }
 
 - (void)dealloc {
