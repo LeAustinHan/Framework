@@ -20,10 +20,14 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
     self = [super init];
     if (self) {
 <<<<<<< HEAD
+<<<<<<< HEAD
         //ll
 =======
       //
 >>>>>>> branch
+=======
+        
+>>>>>>> parent of 14b7949... Merge branch 'test-Merge-revert'
     }
     return self;
 }
