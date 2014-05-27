@@ -21,13 +21,13 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
     if (self) {
         
     }
-    
     return self;
 }
 
 + (void)setLLogAnalysisBaseHeader:(TBLogAnalysisBaseHeader *)header {
     
     logAnalysisHeader = [header copy];
+    //
 }
 
 - (void)dealloc {
