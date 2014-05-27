@@ -31,7 +31,11 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
 + (void)setLLogAnalysisBaseHeader:(TBLogAnalysisBaseHeader *)header {
     
     logAnalysisHeader = [header copy];
+<<<<<<< HEAD
     //
+=======
+    //kk
+>>>>>>> branch-B
 }
 
 - (void)dealloc {
