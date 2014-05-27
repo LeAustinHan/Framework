@@ -1,0 +1,1020 @@
+TNetwork
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005311A6B0000000000000036B
+t1393665712
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005311A6B2000000000000019E
+t1393665714
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005311A6B40000000000A90C10
+t1393665716
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053100EA20000000000000ADC
+t1393561250
+s2780
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.h
+c00000000533CD61B0000000000000453
+t1396495899
+s1107
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m
+c00000000533CD61B0000000000003EA3
+t1396495899
+s16035
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+c00000000533CD61B000000000000141F
+t1396495899
+s5151
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.h
+c00000000533CD61B000000000000072C
+t1396495899
+s1836
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m
+c00000000533CD61B0000000000001A33
+t1396495899
+s6707
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.h
+c00000000533CD61B00000000000006A3
+t1396495899
+s1699
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m
+c00000000533CD61B00000000000018E9
+t1396495899
+s6377
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.h
+c00000000533CD61B00000000000007CC
+t1396495899
+s1996
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m
+c00000000533CD61B000000000000448B
+t1396495899
+s17547
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.h
+c00000000533CD61B0000000000000A85
+t1396495899
+s2693
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m
+c00000000533CD61B0000000000002B37
+t1396495899
+s11063
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+c00000000533CD61B000000000000B012
+t1396495899
+s45074
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m
+c00000000533CD61B000000000002CA43
+t1396495899
+s182851
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+c00000000533CD61B0000000000000511
+t1396495899
+s1297
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+c00000000533CD61B000000000000063E
+t1396495899
+s1598
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.h
+c00000000533CD61B00000000000003A4
+t1396495899
+s932
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m
+c00000000533CD61B0000000000001C84
+t1396495899
+s7300
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.h
+c00000000533CD61B000000000000121F
+t1396495899
+s4639
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m
+c00000000533CD61B0000000000003013
+t1396495899
+s12307
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+c00000000533CD61B0000000000000678
+t1396495899
+s1656
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+c000000005356253000000000000000B6
+t1398154544
+s182
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h
+c00000000533CD61B0000000000001D25
+t1396495899
+s7461
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m
+c00000000533CD61B0000000000005E10
+t1396495899
+s24080
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.h
+c000000005357561A00000000000001B3
+t1398232602
+s435
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m
+c00000000535889A200000000000001AE
+t1398311330
+s430
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.h
+c0000000053578BAC0000000000000A82
+t1398246316
+s2690
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m
+c00000000535889AE0000000000002D20
+t1398311342
+s11552
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.h
+c00000000535609970000000000000212
+t1398147479
+s530
+
+N/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m
+c00000000533CD61B000000000000033B
+t1396495899
+s827
+
+N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h
+c0000000053576B2900000000000001DE
+t1398237993
+s478
+
+N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
+c00000000535792B9000000000000018B
+t1398248121
+s395
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/HHCoreMacros.h
+c000000005357938C00000000000006FA
+t1398248332
+s1786
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/JSON.h
+c000000005357938C0000000000000BE8
+t1398248332
+s3048
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/NSObject+SBJSON.h
+c000000005357938C000000000000085F
+t1398248332
+s2143
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/NSString+Addition.h
+c000000005357938C0000000000000357
+t1398248332
+s855
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/NSString+SBJSON.h
+c000000005357938C00000000000007F0
+t1398248332
+s2032
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/SBJsonBase.h
+c000000005357938C0000000000000B82
+t1398248332
+s2946
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/SBJsonParser.h
+c000000005357938C0000000000000C8F
+t1398248332
+s3215
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core/SBJsonWriter.h
+c000000005357938C00000000000011D9
+t1398248332
+s4569
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h
+t1398248367
+s1107
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h
+t1398248367
+s5151
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h
+t1398248367
+s1836
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h
+t1398248367
+s1699
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h
+t1398248367
+s1996
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h
+t1398248367
+s2693
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h
+t1398248367
+s45074
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h
+t1398248367
+s1297
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h
+t1398248367
+s1598
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h
+t1398248367
+s932
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h
+t1398248367
+s4639
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h
+t1398248367
+s1656
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch
+t1398248367
+s182
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h
+t1398248367
+s7461
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h
+t1398248367
+s435
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h
+t1398248367
+s478
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h
+t1398248367
+s2690
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h
+t1398248367
+s530
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libCore.a
+c000000005357938C00000000001111F0
+t1398248332
+s1118704
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a
+t1398248367
+s2395400
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o
+t1398311255
+s146472
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o
+t1398311246
+s29420
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o
+t1398311318
+s29356
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o
+t1398311254
+s86120
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o
+t1398311246
+s62624
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o
+t1398311319
+s613740
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o
+t1398311331
+s48120
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o
+t1398311246
+s79608
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Network.LinkFileList
+c000000005357938C00000000000006DF
+t1398248332
+s1759
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o
+t1398311331
+s43332
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o
+t2
+s0
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o
+t1398248367
+s11164
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o
+t2
+s0
+
+N/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o
+t1398311255
+s16296
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch
+t1398248366
+s113512
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch
+t1398311246
+s113304
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch
+t1398248366
+s113920
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch
+t2
+s0
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch
+t1398311246
+s113708
+
+N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch
+t1398248332
+s113812
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m
+r0
+
+CBuild AST from /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb2bc9b2fc108b941^c5e69b2fc108b941^---0#1#1#--18"Check dependencies36"197FF0D3-7D43-4C31-8BD7-EDAC0E9F561B-
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004054.544192
+e420004055.336455
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m267"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o Network/ASIHTTPRequest/ASIAuthenticationDialog.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7b08bd6c008b941^e62256d7c008b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m0000000000000000^3505"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o Network/ASIHTTPRequest/ASIAuthenticationDialog.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIAuthenticationDialog.o36"A97B7A74-7711-4B36-8EEC-EAC8045AB21F-
+b7E1DBC65-D8BF-4085-8022-E1DA2184EF19
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004046.331051
+e420004046.601792
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m255"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o Network/ASIHTTPRequest/ASIDataCompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compileraad454cec008b941^7b149acec008b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m0000000000000000^3469"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o Network/ASIHTTPRequest/ASIDataCompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataCompressor.o36"2AF8C233-6C77-485C-951B-16137EF8DD87-
+bD140DD1B-0096-47F0-AFD2-3C1CE983FE12
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004118.410627
+e420004118.551426
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m259"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o Network/ASIHTTPRequest/ASIDataDecompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compileref386916c108b941^0e2e8d16c108b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m0000000000000000^3481"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o Network/ASIHTTPRequest/ASIDataDecompressor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDataDecompressor.o36"4893B389-22D6-48BF-9922-5843CBF1C769-
+b3A758C37-F0E4-4617-913A-5969ED1153EA
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004054.545286
+e420004054.832976
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m253"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o Network/ASIHTTPRequest/ASIDownloadCache.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler16c18bd6c008b941^b186dbd6c008b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m0000000000000000^3463"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o Network/ASIHTTPRequest/ASIDownloadCache.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIDownloadCache.o36"E7488727-7E60-44FD-B3BE-997B5CB8CC55-
+b7E1DBC65-D8BF-4085-8022-E1DA2184EF19
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004046.329934
+e420004046.601801
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m257"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o Network/ASIHTTPRequest/ASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler448b54cec008b941^87199acec008b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m0000000000000000^3475"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o Network/ASIHTTPRequest/ASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIFormDataRequest.o36"D3EC3B41-A1BA-4A52-BE88-2DABCD15024A-
+bD140DD1B-0096-47F0-AFD2-3C1CE983FE12
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004118.410958
+e420004119.156840
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m249"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o Network/ASIHTTPRequest/ASIHTTPRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b4e6916c108b941^c3282817c108b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m0000000000000000^3451"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o Network/ASIHTTPRequest/ASIHTTPRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIHTTPRequest.o36"234FA673-8C87-46BC-A908-6C6F1CF53167-
+b3A758C37-F0E4-4617-913A-5969ED1153EA
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004131.062014
+e420004131.343467
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m249"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o Network/ASIHTTPRequest/ASIInputStream.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfdf40f23c108b941^1cee5723c108b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m0000000000000000^3465"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o Network/ASIHTTPRequest/ASIInputStream.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -fno-objc-arc -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASIInputStream.o36"74409C61-58ED-460D-8857-18DA5D3C2735-
+b5561A523-7BCF-43DD-B612-0F27264AC855
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004046.329402
+e420004046.601748
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m251"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o Network/ASIHTTPRequest/ASINetworkQueue.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler486b54cec008b941^ed0d9acec008b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m0000000000000000^3457"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o Network/ASIHTTPRequest/ASINetworkQueue.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/ASINetworkQueue.o36"592B88F5-6DC3-4FC5-BACD-7D7F035944C6-
+bD140DD1B-0096-47F0-AFD2-3C1CE983FE12
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004131.061687
+e420004131.343495
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h
+o/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m:158:13: warning: unused function 'logNetworkStatus_' [-Wunused-function]
+ostatic void logNetworkStatus_(const char *name, int line, NetworkStatus status) {
+o            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m243"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o Network/Reachability/Reachability.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler50e20f23c108b941^4ef25723c108b941^-279"/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m:158:13: warning: unused function 'logNetworkStatus_' [-Wunused-function]static void logNetworkStatus_(const char *name, int line, NetworkStatus status) {            ^1 warning generated.-0#0#1#-19%DVTDocumentLocation2@95"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m0000000000000000^3435"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o Network/Reachability/Reachability.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Reachability.o36"FD60E93D-A0AF-4423-A051-76E13FADBDBB-
+b5561A523-7BCF-43DD-B612-0F27264AC855
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004143.609923
+e420004143.737531
+r0
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m:10:9: fatal error: 'Core/HHCoreMacros.h' file not found
+o#import "Core/HHCoreMacros.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m246"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o Network/TBASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d3b9c2fc108b941^17d3bc2fc108b941^-199"/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m:10:9: fatal error: 'Core/HHCoreMacros.h' file not found#import "Core/HHCoreMacros.h"        ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@90"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m0000000000000000^3457"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o Network/TBASIFormDataRequest.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBASIFormDataRequest.o36"9156D83E-7243-4C02-AE6D-03D20488A087-
+b64B151F9-BE70-4626-8CBE-922FAF73D8EA
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004143.611749
+e420004143.636025
+r0
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o
+x/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m:10:9: fatal error: 'Core/HHCoreMacros.h' file not found
+o#import "Core/HHCoreMacros.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m301"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler80bb9c2fc108b941^69e1a22fc108b941^-203"/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m:10:9: fatal error: 'Core/HHCoreMacros.h' file not found#import "Core/HHCoreMacros.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@36"'Core/HHCoreMacros.h' file not found-420004143#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@94"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m0000000000000000^9#8#9#8#190#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@94"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m0000000000000000^3510"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.dia -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBErrorDescription.o36"9B9159DE-4075-4646-9A1B-F00F8D2DC470-
+b64B151F9-BE70-4626-8CBE-922FAF73D8EA
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004143.610910
+e420004143.737521
+r0
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m:10:9: fatal error: 'JSON.h' file not found
+o#import "JSON.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m238"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o Network/TBNetworkWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler61889c2fc108b941^78d0bc2fc108b941^-169"/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m:10:9: fatal error: 'JSON.h' file not found#import "JSON.h"        ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m0000000000000000^3433"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o Network/TBNetworkWrapper.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapper.o36"069A7C2D-203E-43EF-A0A9-5AC9E933CE4C-
+b64B151F9-BE70-4626-8CBE-922FAF73D8EA
+
+CCompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004054.545004
+e420004055.135485
+r1
+xCompileC
+x/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o
+x/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.h
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m252"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o Network/TBNetworkWrapperAdapter.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler56f08bd6c008b941^b2103dd7c008b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m0000000000000000^3475"CompileC /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o Network/TBNetworkWrapperAdapter.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.dia -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.m -o /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/TBNetworkWrapperAdapter.o36"94B9BC74-761B-491A-B44D-945DA204C59A-
+b7E1DBC65-D8BF-4085-8022-E1DA2184EF19
+
+CCpHeader /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h
+s419941167.657789
+e419941167.659446
+r1
+xCpHeader
+x/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h191"CpHeader /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h6973a82fcb07b941^8692d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h00349088dfffdf42^714"CpHeader /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBErrorDescription.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"5BBB7D54-A349-4D64-89D6-9DFD6B6A651C-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIAuthenticationDialog.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h
+s419941167.655528
+e419941167.656519
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIAuthenticationDialog.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h157"CpHeader Network/ASIHTTPRequest/ASIAuthenticationDialog.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h54e1a72fcb07b941^608fd12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h00349088dfffdf42^694"CpHeader Network/ASIHTTPRequest/ASIAuthenticationDialog.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIAuthenticationDialog.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIAuthenticationDialog.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"CA90FE09-71ED-42A6-9C45-802EA30833A4-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASICacheDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h
+s419941167.657972
+e419941167.660026
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASICacheDelegate.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h143"CpHeader Network/ASIHTTPRequest/ASICacheDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h9acca82fcb07b941^ab95d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h00349088dfffdf42^673"CpHeader Network/ASIHTTPRequest/ASICacheDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASICacheDelegate.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"D9CB58EE-7032-45DC-B709-DCBE725770E7-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIDataCompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h
+s419941167.659505
+e419941167.662524
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIDataCompressor.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h145"CpHeader Network/ASIHTTPRequest/ASIDataCompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.hd333a92fcb07b941^0399d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h00349088dfffdf42^676"CpHeader Network/ASIHTTPRequest/ASIDataCompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataCompressor.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataCompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"0D869142-C0A4-416B-85C0-7542549A5438-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIDataDecompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h
+s419941167.661051
+e419941167.663203
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIDataDecompressor.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h149"CpHeader Network/ASIHTTPRequest/ASIDataDecompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.ha88aa92fcb07b941^f69bd12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h00349088dfffdf42^682"CpHeader Network/ASIHTTPRequest/ASIDataDecompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDataDecompressor.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDataDecompressor.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"FFBEA906-BD8A-4FE3-BDA9-D3F233154086-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIDownloadCache.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h
+s419941167.662493
+e419941167.665113
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIDownloadCache.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h143"CpHeader Network/ASIHTTPRequest/ASIDownloadCache.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.hfad0a92fcb07b941^b1a3d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h00349088dfffdf42^673"CpHeader Network/ASIHTTPRequest/ASIDownloadCache.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIDownloadCache.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"43CCD9B9-C426-4440-B796-05A2B96DA74B-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h
+s419941167.663354
+e419941167.665425
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIFormDataRequest.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h147"CpHeader Network/ASIHTTPRequest/ASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h5d17aa2fcb07b941^6ea7d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h00349088dfffdf42^679"CpHeader Network/ASIHTTPRequest/ASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIFormDataRequest.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"8E6418CA-7E14-4B36-BAB0-B82947218E86-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIHTTPRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h
+s419941167.663553
+e419941167.665267
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIHTTPRequest.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h139"CpHeader Network/ASIHTTPRequest/ASIHTTPRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.hee05aa2fcb07b941^87a5d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h00349088dfffdf42^667"CpHeader Network/ASIHTTPRequest/ASIHTTPRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequest.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"365C69D1-1055-4C3C-A9DF-BB76243EB4FA-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIHTTPRequestConfig.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h
+s419941167.663690
+e419941167.665045
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIHTTPRequestConfig.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h151"CpHeader Network/ASIHTTPRequest/ASIHTTPRequestConfig.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.hfef2a92fcb07b941^a9a1d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h00349088dfffdf42^685"CpHeader Network/ASIHTTPRequest/ASIHTTPRequestConfig.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestConfig.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"985E1040-D4DF-43EA-96EA-5426268B8CCC-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h
+s419941167.665736
+e419941167.666999
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h155"CpHeader Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.hc68aaa2fcb07b941^71aad12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h00349088dfffdf42^691"CpHeader Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIHTTPRequestDelegate.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"A5328DC0-26E6-42D1-96F6-CF9321EAC61B-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIInputStream.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h
+s419941167.665947
+e419941167.667932
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIInputStream.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h139"CpHeader Network/ASIHTTPRequest/ASIInputStream.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h849daa2fcb07b941^4faed12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h00349088dfffdf42^667"CpHeader Network/ASIHTTPRequest/ASIInputStream.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIInputStream.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIInputStream.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"EE264ACC-B07C-4E38-8697-899573D1CE2F-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASINetworkQueue.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h
+s419941167.666751
+e419941167.667994
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASINetworkQueue.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h141"CpHeader Network/ASIHTTPRequest/ASINetworkQueue.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h0abdaa2fcb07b941^57b0d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h00349088dfffdf42^670"CpHeader Network/ASIHTTPRequest/ASINetworkQueue.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASINetworkQueue.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASINetworkQueue.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"0F6A76C8-C11C-428C-855C-423188123393-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/ASIHTTPRequest/ASIProgressDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h
+s419941167.667754
+e419941167.668808
+r1
+xCpHeader
+xNetwork/ASIHTTPRequest/ASIProgressDelegate.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h149"CpHeader Network/ASIHTTPRequest/ASIProgressDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.he90dab2fcb07b941^03b4d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h00349088dfffdf42^682"CpHeader Network/ASIHTTPRequest/ASIProgressDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/ASIProgressDelegate.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"3A97CE52-D4B2-4C94-980D-9623579713B4-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/Network-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch
+s419941167.669691
+e419941167.670774
+r1
+xCpHeader
+xNetwork/Network-Prefix.pch
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch128"CpHeader Network/Network-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch8f8eab2fcb07b941^a9c0d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch00349088dfffdf42^643"CpHeader Network/Network-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Network-Prefix.pch    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"E86F24BA-F9AC-4571-A0ED-00D126B46C5D-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/Reachability/Reachability.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h
+s419941167.667901
+e419941167.669320
+r1
+xCpHeader
+xNetwork/Reachability/Reachability.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h133"CpHeader Network/Reachability/Reachability.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h8b17ab2fcb07b941^d9b5d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h00349088dfffdf42^657"CpHeader Network/Reachability/Reachability.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/Reachability.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"E674E95A-E16E-4517-A37E-F05AC7D801FA-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/TBASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h
+s419941167.668456
+e419941167.669705
+r1
+xCpHeader
+xNetwork/TBASIFormDataRequest.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h136"CpHeader Network/TBASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h7d3dab2fcb07b941^88b8d12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h00349088dfffdf42^655"CpHeader Network/TBASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBASIFormDataRequest.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"E7699F9F-8322-4FF7-90D7-A137DBF9423A-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/TBNetworkWrapper.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h
+s419941167.669266
+e419941167.670274
+r1
+xCpHeader
+xNetwork/TBNetworkWrapper.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h128"CpHeader Network/TBNetworkWrapper.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h2f6aab2fcb07b941^12bcd12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h00349088dfffdf42^643"CpHeader Network/TBNetworkWrapper.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapper.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"CBE21B34-9396-48F5-B9B8-7797A5CB3A80-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CCpHeader Network/TBNetworkWrapperAdapter.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h
+s419941167.669574
+e419941167.670429
+r1
+xCpHeader
+xNetwork/TBNetworkWrapperAdapter.h
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h142"CpHeader Network/TBNetworkWrapperAdapter.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.hd87dab2fcb07b941^e8bdd12fcb07b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h00349088dfffdf42^664"CpHeader Network/TBNetworkWrapperAdapter.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network/TBNetworkWrapperAdapter.h    cd /Users/imac/Documents/selfDevelope/Framework/Network    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Network36"A761F508-AA42-41DF-9F6F-D5D496E44836-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CLibtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a normal arm64
+s419941167.588362
+e419941167.655092
+r1
+xLibtool
+x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a normal arm6499"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a normal arm649fae962fcb07b941^4c8cd12fcb07b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1542"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a normal arm64    cd /Users/imac/Documents/selfDevelope/Framework/Network    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -L/Users/imac/Library/Developer/Xcode/DerivedData/Core-cigepddjfcoaoihjrtypakzezgik/Build/Products/Debug-iphonesimulator -L/Users/imac/Library/Developer/Xcode/DerivedData/Core-cigepddjfcoaoihjrtypakzezgik/Build/Products/Debug-iphonesimulator/Core.app -L/Users/imac/Library/Developer/Xcode/DerivedData/Core-cigepddjfcoaoihjrtypakzezgik/Build/Products/Debug-iphonesimulator/include -L/Users/imac/Library/Developer/Xcode/DerivedData/Core-cigepddjfcoaoihjrtypakzezgik/Build/Products/Debug-iphonesimulator/include/Core -filelist /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Objects-normal/arm64/Network.LinkFileList -ObjC /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libCore.a -framework Foundation -o /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/libNetwork.a36"61B69B60-C91B-43F9-865D-CA3DD7260E5E-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/ProjectAPI-cwqhzxgplnnimnapvurbspudspxh/Index/PrecompiledHeaders/Network-Prefix-bbtpgepwaffdynequllnycjsybhu_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/ProjectAPI-cwqhzxgplnnimnapvurbspudspxh/Index/PrecompiledHeaders/Network-Prefix-caqfforrlwaigkdsjgxuktqtxmve_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/ProjectAPI-cwqhzxgplnnimnapvurbspudspxh/Index/PrecompiledHeaders/Network-Prefix-ddxutrcimpftmegcoalcnixfjwiq_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/ProjectAPI-cwqhzxgplnnimnapvurbspudspxh/Index/PrecompiledHeaders/Network-Prefix-hjjwzhhyhghdwtcovhqeaqwwdkzs_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/Network-Prefix-dfiwrbcimipniufwqlistrevrffu_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/Network-Prefix-dmfkooekzkzrqidxduupdbenwagr_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/Network-Prefix-dtagpsyrcswpqgemfryyrdcmabsd_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/Network-Prefix-fyjapaojgexvypedodbgzpljpfjt_ast/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419941166.816618
+e419941166.846886
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb323d12ecb07b941^2b18d92ecb07b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3611"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -fno-objc-arc --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-amxuoynkoggbqdfhlwwyvevzuzuh/Network-Prefix.pch.pch36"FED69209-F332-46E4-AE64-30CB31D04FE2-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004046.297090
+e420004046.328305
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler46224ccec008b941^950c54cec008b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3460"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -fno-objc-arc --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-dznydmfmszvqbkgktwydhpandjks/Network-Prefix.pch.pch36"A69CF608-88F4-41BE-A73C-AF2A68EF329A-
+bD140DD1B-0096-47F0-AFD2-3C1CE983FE12
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-edblioyiyquzqqgbyfblsghfhfii/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419941166.816313
+e419941166.846924
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0611d12ecb07b941^3a20d92ecb07b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3597"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/Core -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-eeaqgczbygyigohchuadfiagbmbo/Network-Prefix.pch.pch36"C035C711-3B13-49EC-9B19-C2367FF83CAA-
+b3D261053-3D01-4A95-8339-274AF0C1514C
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419941132.867852
+e419941132.899916
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e41de0ccb07b941^3849eb0ccb07b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3533"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -fno-objc-arc --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-efzkhyhbyfdahcdvxbeywrnqydpg/Network-Prefix.pch.pch36"88EBBD71-2B17-401A-983F-B1B230A3C5B2-
+bEC3D172A-333A-4759-8F50-70BD88F18BED
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420004046.296820
+e420004046.328707
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler23134ccec008b941^cc2654cec008b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3446"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-epjbfbpbsawioqezlznemsrcjcvb/Network-Prefix.pch.pch36"43E1E48B-973F-4ACA-A6D1-A6CB719C32E6-
+bD140DD1B-0096-47F0-AFD2-3C1CE983FE12
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-fayxhgksglpzinfgfejpskibfidm/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419941132.867549
+e419941132.899810
+r1
+xProcessPCH
+x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch
+xNetwork/Network-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Network/Network-Prefix.pch289"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4430de0ccb07b941^0f47eb0ccb07b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch0000000000000000^3519"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch Network/Network-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/Network    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/Network-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos/include -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources/arm64 -I/Users/imac/Documents/selfDevelope/Framework/build/Network.build/Debug-iphoneos/Network.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphoneos --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/Network/Network/Network-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Network-Prefix-gfodsnihyduhhydcswaoyvabycvf/Network-Prefix.pch.pch36"E4791BD7-DAAA-4378-BAA3-1D444CFFAAA2-
+bEC3D172A-333A-4759-8F50-70BD88F18BED
+

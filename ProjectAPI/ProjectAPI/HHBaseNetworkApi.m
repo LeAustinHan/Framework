@@ -19,7 +19,11 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
 - (id)init {
     self = [super init];
     if (self) {
+<<<<<<< HEAD
         //ll
+=======
+      //
+>>>>>>> branch
     }
     return self;
 }

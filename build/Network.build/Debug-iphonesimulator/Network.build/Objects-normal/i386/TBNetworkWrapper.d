@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.m \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIDownloadCache.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASICacheDelegate.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapper.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBASIFormDataRequest.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIFormDataRequest.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequest.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestConfig.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIHTTPRequestDelegate.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/ASIHTTPRequest/ASIProgressDelegate.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/TBNetworkWrapperAdapter.h \
+  /Users/imac/Documents/selfDevelope/Framework/Network/Network/Reachability/Reachability.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/NSString+Addition.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/JSON.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/SBJsonParser.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/SBJsonBase.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/SBJsonWriter.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/NSObject+SBJSON.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/NSString+SBJSON.h \
+  /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/HHCoreMacros.h
