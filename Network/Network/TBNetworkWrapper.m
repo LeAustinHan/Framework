@@ -6,8 +6,14 @@
 
 #import "ASIDownloadCache.h"
 #import "TBNetworkWrapper.h"
-#import "Network/TBNetworkWrapperAdapter.h"
-#import "Core.h"
+#import "TBNetworkWrapperAdapter.h"
+#import "JSON.h"
+#import "NSString+Addition.h"
+
+
+
+#import "HHCoreMacros.h"
+
 
 NSString *const TBRequestMethodGet = @"GET";
 NSString *const TBRequestMethodPost = @"POST";
@@ -58,6 +64,16 @@ NSString *const TBServiceMethod = @"serviceMethod";
     } else {
         HHPRINT(@">>>>>>>>>>>>>>>>>###>>>>>>>>>>>>>>>>>>>属性设置失败：%@", key);
     }
+}
+
+-(NSString *) urlEncoded:(NSString *)str
+{
+    return CFBridgingRelease(CFURLCreateStringByAddingPercentEscapes(
+                                                                     NULL,
+                                                                     (CFStringRef)str,
+                                                                     NULL,
+                                                                     NULL,
+                                                                     kCFStringEncodingUTF8 ));
 }
 
 
@@ -311,7 +327,7 @@ NSString *const TBServiceMethod = @"serviceMethod";
         preStr = @"?";
     }
     wrapperUrlString = [NSString stringWithFormat:@"%@%@%@", urlStr, preStr, wrapperUrlString];
-    wrapperUrlString = [wrapperUrlString urlEncoded];
+    wrapperUrlString = [self urlEncoded:wrapperUrlString];
     return [NSURL URLWithString:wrapperUrlString];
 }
 

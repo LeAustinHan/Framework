@@ -6,7 +6,6 @@
 //  Copyright (c) 2012年 mac. All rights reserved.
 //
 
-#import "Core.h"
 
 #import "TBLogAnalysisBaseHeader.h"
 

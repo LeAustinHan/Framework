@@ -8,9 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "Network/TBASIFormDataRequest.h"
-#import "Network/Reachability.h"
+#import "TBASIFormDataRequest.h"
+#import "Reachability.h"
  
 
-#import "Network/TBNetworkWrapper.h"
-#import "Network/TBNetworkWrapperAdapter.h"
+#import "TBNetworkWrapper.h"
+#import "TBNetworkWrapperAdapter.h"

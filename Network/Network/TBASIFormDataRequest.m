@@ -7,7 +7,7 @@
 //
 
 #import "TBASIFormDataRequest.h"
-#import "HHCoreMacros.h"
+#import "Core/HHCoreMacros.h"
 
 @implementation TBASIFormDataRequest
 @synthesize serviceData, serviceMethodFlag;
