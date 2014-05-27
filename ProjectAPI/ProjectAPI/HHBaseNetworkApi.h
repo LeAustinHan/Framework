@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+#import "Network.h"
 #import "Network/TBASIFormDataRequest.h"
 #import "Network/TBNetworkWrapper.h"
 #import "Network/ASIDownloadCache.h"

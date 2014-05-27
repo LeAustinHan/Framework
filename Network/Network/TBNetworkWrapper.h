@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "TBASIFormDataRequest.h"
+#import "Network/TBASIFormDataRequest.h"
 
 extern NSString *const TBRequestMethodGet;
 extern NSString *const TBRequestMethodPost;

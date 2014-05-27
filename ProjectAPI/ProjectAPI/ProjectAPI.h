@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-#import "TBErrorDescription.h"
+@interface ProjectAPI : NSObject
 
 @end

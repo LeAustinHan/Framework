@@ -7,7 +7,7 @@
 //
 
 #import "TBErrorDescription.h"
-#import "Core/HHCoreMacros.h"
+#import "HHCoreMacros.h"
 
 @implementation TBErrorDescription
 

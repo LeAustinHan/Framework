@@ -1,358 +1,0 @@
-TProjectAPI
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a normal i386
-cCpHeader ProjectAPI/ProjectAPI-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch
-cCpHeader ProjectAPI/HHBaseNetworkApi.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h
-cCpHeader ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h
-cCpHeader ProjectAPI/TBLogAnalysisBaseHeader.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c000000005311A6CC00000000000003B4
-t1393665740
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005311A6D8000000000000019E
-t1393665752
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000005311A6DE000000000088D8C0
-t1393665758
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib
-c000000005311A70B00000000004F47E0
-t1393665803
-s5195744
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
-c000000005311A70C00000000001D35B0
-t1393665804
-s1914288
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
-c000000005311A70C000000000002B700
-t1393665804
-s177920
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053100EA20000000000000ADC
-t1393561250
-s2780
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.h
-c00000000535793630000000000000885
-t1398248291
-s2181
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m
-c0000000053576B2900000000000007E7
-t1398237993
-s2023
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch
-c00000000535791B900000000000000B6
-t1398247865
-s182
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h
-c0000000053576B2900000000000001DE
-t1398237993
-s478
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
-c00000000535792B9000000000000018B
-t1398248121
-s395
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.h
-c0000000053576B29000000000000064F
-t1398237993
-s1615
-
-N/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m
-c00000000535792BF0000000000000E3A
-t1398248127
-s3642
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/HHCoreMacros.h
-c000000005357929600000000000006FA
-t1398248086
-s1786
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASICacheDelegate.h
-c00000000535792AD000000000000141F
-t1398248109
-s5151
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIDownloadCache.h
-c00000000535792AD00000000000007CC
-t1398248109
-s1996
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIFormDataRequest.h
-c00000000535792AD0000000000000A85
-t1398248109
-s2693
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequest.h
-c00000000535792AD000000000000B012
-t1398248109
-s45074
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequestConfig.h
-c00000000535792AD0000000000000511
-t1398248109
-s1297
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequestDelegate.h
-c00000000535792AD000000000000063E
-t1398248109
-s1598
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIProgressDelegate.h
-c00000000535792AD0000000000000678
-t1398248109
-s1656
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/TBASIFormDataRequest.h
-c00000000535792AD00000000000001B3
-t1398248109
-s435
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/TBNetworkWrapper.h
-c00000000535792AD0000000000000A82
-t1398248109
-s2690
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h
-t1398248292
-s2181
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch
-t1398248134
-s182
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h
-t1398248134
-s478
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h
-t1398248134
-s1615
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libNetwork.a
-c00000000535792BA000000000020C150
-t1398248122
-s2146640
-
-N/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a
-t1398248292
-s2221112
-
-N/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o
-t1398248292
-s26788
-
-N/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/ProjectAPI.LinkFileList
-c00000000535792AD00000000000001BF
-t1398248109
-s447
-
-N/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o
-t1398248122
-s9556
-
-N/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o
-t1398248128
-s36548
-
-N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch
-t1398248122
-s119640
-
-N/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch
-t1398248109
-s119396
-
-CBuild AST from /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m
-r0
-
-CBuild AST from /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
-r0
-
-CBuild AST from /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies64cedf03cb07b941^8bfbdf03cb07b941^---0#1#1#--18"Check dependencies36"172155F2-F8EE-4DDA-BEE6-EF25EFE94177-
-
-CCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419941092.068067
-e419941092.122465
-r1
-xCompileC
-x/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o
-x/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/TBASIFormDataRequest.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIFormDataRequest.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequest.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequestConfig.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIHTTPRequestDelegate.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIProgressDelegate.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASICacheDelegate.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/TBNetworkWrapper.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network/ASIDownloadCache.h
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/HHCoreMacros.h
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m252"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o ProjectAPI/HHBaseNetworkApi.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b8411e4ca07b941^a35b1fe4ca07b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m0000000000000000^3949"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o ProjectAPI/HHBaseNetworkApi.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/include -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources/i386 -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.dia -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.m -o /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/HHBaseNetworkApi.o36"65D20677-D882-44EB-A0A4-DF291461798D-
-b00B2FC8C-139C-4966-9EA4-2A98A2CE482A
-
-CCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419940922.163213
-e419940922.298344
-r1
-xCompileC
-x/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o
-x/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h
-d/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core/HHCoreMacros.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m256"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o ProjectAPI/TBErrorDescription.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler65df293aca07b941^7ec84f3aca07b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m0000000000000000^3961"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o ProjectAPI/TBErrorDescription.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/include -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources/i386 -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.dia -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.m -o /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o36"1C60CA4D-2D35-492A-AF1D-6C1570464C12-
-b676DA1E6-8F5A-4404-AE4D-BD4E7B841907
-
-CCompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419940928.133277
-e419940928.281303
-r1
-xCompileC
-x/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o
-x/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m266"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o ProjectAPI/TBLogAnalysisBaseHeader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera8382240ca07b941^71054840ca07b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m0000000000000000^3991"CompileC /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o ProjectAPI/TBLogAnalysisBaseHeader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/include -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources/i386 -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -include /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch -MMD -MT dependencies -MF /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.d --serialize-diagnostics /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.dia -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.m -o /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBLogAnalysisBaseHeader.o36"85DB4FF6-40AE-47CF-A4FA-02ED101C9CB2-
-b31E5B107-50BA-4575-B939-612621C472A2
-
-CCpHeader ProjectAPI/HHBaseNetworkApi.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h
-s419941092.178295
-e419941092.179017
-r1
-xCpHeader
-xProjectAPI/HHBaseNetworkApi.h
-x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h141"CpHeader ProjectAPI/HHBaseNetworkApi.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h64b12de4ca07b941^d8d42de4ca07b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h0000000000000000^682"CpHeader ProjectAPI/HHBaseNetworkApi.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/HHBaseNetworkApi.h    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/HHBaseNetworkApi.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI36"F8A6222B-A855-4CA1-B40A-F462A14D2F9C-
-b00B2FC8C-139C-4966-9EA4-2A98A2CE482A
-
-CCpHeader ProjectAPI/ProjectAPI-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch
-s419940934.387808
-e419940934.389496
-r1
-xCpHeader
-xProjectAPI/ProjectAPI-Prefix.pch
-x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch147"CpHeader ProjectAPI/ProjectAPI-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch58596346ca07b941^a7b36346ca07b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch00349088dfffdf42^691"CpHeader ProjectAPI/ProjectAPI-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/ProjectAPI-Prefix.pch    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI36"4424AA24-7589-444B-9F49-A5910779F34C-
-b9D60F459-4777-4ED3-ADAE-85A092480F14
-
-CCpHeader ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h
-s419940934.388094
-e419940934.389651
-r1
-xCpHeader
-xProjectAPI/TBErrorDescription.h
-x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h145"CpHeader ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.hb2676346ca07b941^ecbe6346ca07b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h00349088dfffdf42^688"CpHeader ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBErrorDescription.h    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBErrorDescription.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI36"5D59C029-7E2B-45F9-8FD0-90C21D2F3442-
-b9D60F459-4777-4ED3-ADAE-85A092480F14
-
-CCpHeader ProjectAPI/TBLogAnalysisBaseHeader.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h
-s419940934.388401
-e419940934.389643
-r1
-xCpHeader
-xProjectAPI/TBLogAnalysisBaseHeader.h
-x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h155"CpHeader ProjectAPI/TBLogAnalysisBaseHeader.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.hfe7c6346ca07b941^48c56346ca07b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h00349088dfffdf42^703"CpHeader ProjectAPI/TBLogAnalysisBaseHeader.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI/TBLogAnalysisBaseHeader.h    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/TBLogAnalysisBaseHeader.h /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/ProjectAPI36"71EE5017-AA73-4D8A-8461-68514B941B87-
-b9D60F459-4777-4ED3-ADAE-85A092480F14
-
-CLibtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a normal i386
-s419941092.123142
-e419941092.177845
-r1
-xLibtool
-x/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a
-xnormal
-xi386
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static library
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static library
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
-owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (TBErrorDescription.o) in output file used for input files: /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o and: /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libNetwork.a(TBErrorDescription.o) due to use of basename, truncation and blank padding
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a normal i386108"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a normal i386b8941fe4ca07b941^5d8c2de4ca07b941^-2478"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning same member name (TBErrorDescription.o) in output file used for input files: /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/TBErrorDescription.o and: /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libNetwork.a(TBErrorDescription.o) due to use of basename, truncation and blank padding6(21%IDEActivityLogMessage2@296"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static library-419941092#159#306#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@296"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib is a dynamic library, not added to the static library-419941092#465#306#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@296"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library-419941092#771#306#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@296"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library-419941092#1077#306#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@290"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-419941092#1383#300#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@290"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-419941092#1683#300#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--0#0#1#--1668"Libtool /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a normal i386    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -L/Users/imac/Documents/selfDevelope/Framework/Core/build/Debug-iphoneos -L/Users/imac/Documents/selfDevelope/Framework/Network/build/Debug-iphoneos -filelist /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/Objects-normal/i386/ProjectAPI.LinkFileList -ObjC /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libNetwork.a -framework Foundation -o /Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/libProjectAPI.a36"302399F6-ECA4-496E-A61C-5876CF039B99-
-b00B2FC8C-139C-4966-9EA4-2A98A2CE482A
-
-CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/ProjectAPI-Prefix-agrqezvbgxexisfznxdfojiyhrlz_ast/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/imac/Library/Developer/Xcode/DerivedData/TestDemo-dxyneujdnyarpvexfvkpgbjirnpb/Index/PrecompiledHeaders/ProjectAPI-Prefix-djdojmaeuapnpdaqmjqysqksitea_ast/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419940922.129214
-e419940922.162000
-r1
-xProcessPCH
-x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch
-xProjectAPI/ProjectAPI-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ProjectAPI/ProjectAPI-Prefix.pch300"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler302a213aca07b941^cc7a293aca07b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch0000000000000000^3938"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Core -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/Network -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/include -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources/i386 -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-bognyzhtgldzqpfcxnopfqxlppkf/ProjectAPI-Prefix.pch.pch36"D796B8B3-715C-4911-BAE3-636CBA06A312-
-b676DA1E6-8F5A-4404-AE4D-BD4E7B841907
-
-CProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419940909.707691
-e419940909.738441
-r1
-xProcessPCH
-x/var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch
-xProjectAPI/ProjectAPI-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ProjectAPI/ProjectAPI-Prefix.pch300"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1843b52dca07b941^170dbd2dca07b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch0000000000000000^3765"ProcessPCH /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch ProjectAPI/ProjectAPI-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Documents/selfDevelope/Framework/ProjectAPI    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/imac/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-generated-files.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-own-target-headers.hmap -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-all-target-headers.hmap -iquote /Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/ProjectAPI-project-headers.hmap -iquote/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator -I/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator/include -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources/i386 -I/Users/imac/Documents/selfDevelope/Framework/build/ProjectAPI.build/Debug-iphonesimulator/ProjectAPI.build/DerivedSources -F/Users/imac/Documents/selfDevelope/Framework/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.d -c /Users/imac/Documents/selfDevelope/Framework/ProjectAPI/ProjectAPI/ProjectAPI-Prefix.pch -o /var/folders/pr/cznsdyqd1mq_f9rw68vy6s1m0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ProjectAPI-Prefix-fouaaxpwhvskpjbxvfgqbeolhvuf/ProjectAPI-Prefix.pch.pch36"AD259467-D2DB-4C9B-95AC-8AD7CE2F264B-
-b2874D314-EBB4-4CB6-91EA-8331D38E2D72
-
