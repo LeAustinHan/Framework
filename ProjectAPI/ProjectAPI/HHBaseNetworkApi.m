@@ -19,7 +19,7 @@ static TBLogAnalysisBaseHeader *logAnalysisHeader;
 - (id)init {
     self = [super init];
     if (self) {
-        
+        //ll
     }
     
     return self;
